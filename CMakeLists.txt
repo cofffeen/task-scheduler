@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
 
 project(
-    labwork9
+    task-scheduler
     LANGUAGES CXX
 )
 
